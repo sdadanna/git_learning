@@ -1,3 +1,4 @@
  practising git
 Added new line to test merge
 One more line to test merge from branch
+master update
