@@ -1,1 +1,2 @@
  practising git
+Added new line to test merge
